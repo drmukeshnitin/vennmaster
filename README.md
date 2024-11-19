@@ -66,7 +66,7 @@ Venn-Master-Venn Diagram ToolInstallation
 
 3. Run the tool:
    ```bash
-   python venn_tool.py
+   python vennmaster.py
    ```
 
 
