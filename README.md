@@ -123,6 +123,5 @@ Venn-Master-Venn Diagram ToolContact
 For any issues or suggestions, please reach out to:
 
 - Author: Dr Mukesh nitin
-- Email: [drmukeshnitin@gmail.com]
-- GitHub: [https://github.com/your-repo](https://github.com/your-repo)
-
+- Email: drrmukeshnitin@gmail.com
+- GitHub: https://github.com/drmukeshnitin/vennmaster
